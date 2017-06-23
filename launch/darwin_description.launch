@@ -1,0 +1,5 @@
+<launch>
+
+   <param name="robot_description" textfile="$(find darwin_description)/urdf/darwin.urdf" />  
+
+</launch>
